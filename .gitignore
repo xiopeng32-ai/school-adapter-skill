@@ -1,0 +1,7 @@
+# 抓包产物（可能含真实账号信息，禁止提交）
+*.har
+capture/
+samples/
+*.json.bak
+
+.DS_Store
